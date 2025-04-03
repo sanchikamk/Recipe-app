@@ -3,7 +3,7 @@
 A simple CRUD API for managing recipes, built with **Node.js, Express.js, and MongoDB** following the **MVC pattern**.
 
 ## 🚀 Live API URL
-**Base URL:** [https://recipes-api.onrender.com](https://recipes-api.onrender.com)
+**Base URL:** [https://recipe-app-qqy9.onrender.com/recipes/]
 
 ---
 
@@ -20,7 +20,7 @@ A simple CRUD API for managing recipes, built with **Node.js, Express.js, and Mo
 
 ### **1️⃣ Create a Recipe**
 **Method:** `POST`  
-**URL:** `https://recipes-api.onrender.com/api/recipes`  
+**Base URL:** [https://recipe-app-qqy9.onrender.com/recipes/]
 **Headers:**
 ```json
 Content-Type: application/json
