@@ -9,11 +9,11 @@ router.post ('/', createRecipe);
 
 router.get ('/', getAllRecipes );
 
-router.get ('/:id', getRecipeById);
+router.get ('/_id', getRecipeById);
 
-router.put('/:id', updateRecipeById);
+router.put('/_id', updateRecipeById);
 
-router.delete('/:id', deleteRecipeById);
+router.delete('/_id', deleteRecipeById);
 
 
 
